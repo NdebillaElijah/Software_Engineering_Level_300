@@ -15,7 +15,6 @@ what are the benefits and drawbacks of each?
 
 Difference
 A few of the notable Manifesto entries that contrast Agile against Waterfall include the following:
-
 Teams should prioritize "responding to change over following a plan."
 Teams emphasize "working software over comprehensive documentation."
 Changes to requirements are welcomed, "even late in development."
